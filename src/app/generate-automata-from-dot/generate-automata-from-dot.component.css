@@ -1,0 +1,16 @@
+.fblogo {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%; 
+    
+}
+
+#images{
+    text-align:center;
+}
+
+#button{
+   margin-left: 10px;
+
+}
